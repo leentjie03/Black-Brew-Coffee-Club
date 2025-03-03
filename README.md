@@ -2,9 +2,11 @@
 
 Welcome to the Black-Brew-Coffee-Club ! This mobile application is built using **Jetpack Compose**, **Kotlin**, and **Firebase**, offering an intuitive and modern coffee ordering experience. Whether you're craving a latte, espresso, or cold brew, this app allows you to easily browse, customize, and place orders, all from the comfort of your device.
 
-## 🚀 Overview
+## 🚀 Description
 
-The Black-Brew-Coffee-Club Ordering App is designed to simplify the process of ordering your favorite coffee beverages. Using *Jetpack Compose* for building a responsive, clean UI, and *Firebase* for real-time backend services, this app offers an optimized experience for discovering, customizing, and ordering coffee drinks. From secure authentication to seamless customizations, we ensure your coffee experience is as smooth as possible.
+The Black-Brew-Coffee-Club Ordering App is my final year project which was designed to simplify the process of ordering your favorite coffee beverages. Using *Jetpack Compose* for building a responsive, clean UI, and *Firebase* for real-time backend services, this app offers an optimized experience for discovering, customizing, and ordering coffee drinks. From secure authentication to seamless customizations, we ensure your coffee experience is as smooth as possible.
+
+This project not only allowed me to improve my technical skills in Android development, but it instilled a sense of responsibility and a newfound love for building real-world applications. It helped me gain hands-on experience in Firebase integration, user interface design, and app deployment, while also deepening my understanding of user experience and mobile app optimization.
 
 ## 📱 Features
 
@@ -40,7 +42,6 @@ Here are some screenshots of the app showcasing its user interface:
 ##  📝 Acknowledgments
 
 I would like to take a moment to extend my sincere thanks to Tshegofatso Tladi. Your invaluable contributions, dedication, and teamwork were essential in bringing this project to life. Your commitment, dedication and hard work in coding the Firebase integration, and creating the responsive layouts made all the difference, and I truly appreciate your efforts. I’m truly grateful for your support and friendship throughout this process. I look forward to collaborating on more projects in the future.
-
 
 
 ## 🤝 Contributing
