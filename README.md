@@ -1,6 +1,6 @@
 # ☕ Black-Brew-Coffee-Club
 
-Welcome to the Black-Brew-Coffee-Club ! This mobile application is built using *Jetpack Compose**, **Kotlin**, and **Firebase**, offering an intuitive and modern coffee ordering experience. Whether you're craving a latte, espresso, or cold brew, this app allows you to easily browse, customize, and place orders, all from the comfort of your device.
+Welcome to the Black-Brew-Coffee-Club ! This mobile application is built using **Jetpack Compose**, **Kotlin**, and **Firebase**, offering an intuitive and modern coffee ordering experience. Whether you're craving a latte, espresso, or cold brew, this app allows you to easily browse, customize, and place orders, all from the comfort of your device.
 
 ## 🚀 Overview
 
