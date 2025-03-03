@@ -1,10 +1,10 @@
 # ☕ Black-Brew-Coffee-Club
 
-Welcome to the Black-Brew-Coffee-Club ! This mobile application is built using *Jetpack Compose, **Kotlin, and **Firebase*, offering an intuitive and modern coffee ordering experience. Whether you're craving a latte, espresso, or cold brew, this app allows you to easily browse, customize, and place orders, all from the comfort of your device.
+Welcome to the Black-Brew-Coffee-Club ! This mobile application is built using *Jetpack Compose, **Kotlin**, and **Firebase*, offering an intuitive and modern coffee ordering experience. Whether you're craving a latte, espresso, or cold brew, this app allows you to easily browse, customize, and place orders, all from the comfort of your device.
 
 ## 🚀 Overview
 
-TheBlack-Brew-Coffee-Club Ordering App is designed to simplify the process of ordering your favorite coffee beverages. Using *Jetpack Compose* for building a responsive, clean UI, and *Firebase* for real-time backend services, this app offers an optimized experience for discovering, customizing, and ordering coffee drinks. From secure authentication to seamless customizations, we ensure your coffee experience is as smooth as possible.
+The Black-Brew-Coffee-Club Ordering App is designed to simplify the process of ordering your favorite coffee beverages. Using *Jetpack Compose* for building a responsive, clean UI, and *Firebase* for real-time backend services, this app offers an optimized experience for discovering, customizing, and ordering coffee drinks. From secure authentication to seamless customizations, we ensure your coffee experience is as smooth as possible.
 
 ## 📱 Features
 
@@ -16,7 +16,7 @@ TheBlack-Brew-Coffee-Club Ordering App is designed to simplify the process of or
 
 ## 🛠 Technologies Used
 
-The *Coffee Ordering App* utilizes modern Android development technologies for building high-performance and feature-rich applications:
+The Black-Brew-Coffee-Club App utilizes modern Android development technologies for building high-performance and feature-rich applications:
 
 - *Jetpack Compose*: A modern, fully declarative UI toolkit for Android, providing a powerful and flexible approach to UI development. 🚀
 - *Kotlin*: The official programming language for Android development, providing a concise and expressive syntax. 📜
@@ -31,7 +31,7 @@ The *Coffee Ordering App* utilizes modern Android development technologies for b
 Here are some screenshots of the app showcasing its user interface:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/4805c964fb93e35e955aa228ca42084fd80f55e2/Welcom_Screen.jpg" width="200" />
+  <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/b16a6485869444876dd3760857abd6346b80ff59/Black%20%26%20Brew%20Coffee%20Club%20Images/Welcom_Screen.jpg" width="200" />
   <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/bdbd6d3f8c4dd72c91d335ca84ea6673841a8bb3/Sign_Up_Screen.jpg" width="200" />
   <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/8966e54d994eb25940a8c88eebe7ba7c7c86d080/Dashboard.jpg" width="200" />
   <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/0efa8b12f05adc0a20ba4704c25ab16e6062cfae/Cart_Screen.jpg" width="200" />
