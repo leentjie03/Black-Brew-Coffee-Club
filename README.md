@@ -33,7 +33,7 @@ Here are some screenshots of the app showcasing its user interface:
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/b16a6485869444876dd3760857abd6346b80ff59/Black%20%26%20Brew%20Coffee%20Club%20Images/Welcom_Screen.jpg" width="200" />
   <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/538e2c9199464ed48af70d7b6e2e589de0ab6acc/Black%20%26%20Brew%20Coffee%20Club%20Images/Sing_In_Screen.jpg" width="200" />
-  <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/8966e54d994eb25940a8c88eebe7ba7c7c86d080/Dashboard.jpg" width="200" />
+  <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/2afebcc982c1532b23ddd4905d41ca3a2af27119/Black%20%26%20Brew%20Coffee%20Club%20Images/Dashboard_Screen.jpg" width="200" />
   <img src="https://github.com/leentjie03/Black-Brew-Coffee-Club/blob/0efa8b12f05adc0a20ba4704c25ab16e6062cfae/Cart_Screen.jpg" width="200" />
 </div>
 
