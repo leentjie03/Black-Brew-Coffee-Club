@@ -10,10 +10,10 @@ This project not only allowed me to improve my technical skills in Android devel
 
 ## 📱 Features
 
-- *Intuitive User Interface: The app is built with **Jetpack Compose*, which ensures a clean, declarative UI that's responsive and easy to navigate. ✨
+- *Intuitive User Interface*: The app is built with **Jetpack Compose*, which ensures a clean, declarative UI that's responsive and easy to navigate. ✨
 - *Coffee Menu*: Browse a wide range of coffee, baked goods, light meals and plenty other options, complete with images and detailed descriptions. 🛍
 - *Customizable Orders*: Personalize your coffee order by choosing different sizes, milk options, sugar options and espresso shots. ☕
-- *User Authentication: Secure sign-up and login functionality using **Firebase Authentication*, allowing users to create accounts, sign in, log out and delete their accunts. 🔒
+- *User Authentication*: Secure sign-up and login functionality using **Firebase Authentication**, allowing users to create accounts, sign in, log out and delete their accunts. 🔒
 - *Search and Filter*: Easily find your favorite coffee drinks with a robust search and filter system. 🔍
 
 ## 🛠 Technologies Used
